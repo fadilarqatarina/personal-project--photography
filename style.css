@@ -73,5 +73,9 @@ footer {
         width: 260px;
         border-radius: 5px;
     }
+ 
+    .caption {
+        width: 260px;
+    }
 }
 
