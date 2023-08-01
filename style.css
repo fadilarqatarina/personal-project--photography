@@ -63,3 +63,15 @@ footer {
     text-align: center;
 }
 
+@media (max-width: 390px) {
+    #first-card, #second-card, #third-card, #fourth-card, #fifth-card, #sixth-card,  #seventh-card, #eighth-card, #ninth-card{   
+        width: 300px;
+        height: 450px;
+    }
+
+    .image {
+        width: 260px;
+        border-radius: 5px;
+    }
+}
+
